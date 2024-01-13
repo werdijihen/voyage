@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1041771471193",
+    "project_id": "flutter-c5149",
+    "storage_bucket": "flutter-c5149.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041771471193:android:001620acf3e5cdc4acec48",
+        "android_client_info": {
+          "package_name": "com.example.voyage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgqvO4ZF2Mr4Gvkax2aAt4p0MfuXRoVGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
